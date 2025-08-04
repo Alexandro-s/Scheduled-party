@@ -1,0 +1,149 @@
+.form-page h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #fcfcfc;
+  font-size: 2rem;
+
+}
+
+.form-page p {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #fcfcfc;
+}
+
+.form-page form {
+  background-color: #0d0d0d;
+  padding: 2rem;
+  /* border-radius: 1rem; */
+  border: solid #fcfcfc;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+
+
+}
+
+.container-2 {
+  background-color: #0d0d0d;
+  padding: 2rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+
+}
+
+.container-2 h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 1rem;
+  margin-bottom: 16px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.form-page label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.8rem;
+  gap: 0 .5rem;
+  color: #ffffff
+}
+
+.form-page input {
+  border: none;
+
+  border-bottom: 2px solid #ccc;
+ 
+  background: transparent;
+
+  outline: none;
+
+  padding: 8px 0;
+  
+  font-size: 16px;
+
+  color: #fff;
+}
+
+.form-page textarea {
+  border: none;
+
+  border-bottom: 2px solid #ccc;
+
+  background: transparent;
+
+  outline: none;
+
+  padding: 8px 0;
+
+  font-size: 16px;
+
+  color: #fff;
+
+}
+
+
+
+
+.services-container {
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 0 2rem;
+
+
+}
+
+.services-container .service {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 12px;
+  border: solid #1a1a1a;
+  max-width: 40%;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+.services-container .service img {
+
+
+  width: 150px;
+  height: 150px;
+
+  object-fit: cover;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 8px;
+
+}
+
+.form-page .btn {
+
+  max-width: 150px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  display: block;
+  padding-top: 1rem;
+
+}
+
+.form-page .checkbox-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+
+  transform: scale(2.5);
+  transform-origin: center;
+  -webkit-transform: scale(1.5);
+  -webkit-transform-origin: center;
+  margin-top: 1rem;
+
+}
+
+.form-page .service-name {
+  margin-top: 0.5rem;
+  color: #ffffff;
+}

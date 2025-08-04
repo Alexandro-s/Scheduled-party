@@ -1,0 +1,40 @@
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Mozilla Headline", sans-serif;
+
+}
+
+body {
+  background-color:#0d0d0d
+}
+
+ul {
+  list-style: none;
+   display: flex;
+   gap: 1rem;
+
+  
+}
+
+a {
+ color: #ffffff;
+ text-decoration: none;
+ font-weight: bold;
+ 
+}
+
+p {
+   color: #ffffff
+}
+/* 
+.btn-secondary {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  display: block;
+  padding-top: 2rem;
+  
+
+} */
