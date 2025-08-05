@@ -27,5 +27,5 @@ app.use("/api", routes );
 
 // Inicia o servidor e escuta em uma porta escolhida
 app.listen(PORT, () => {
-    console.log(`🚀 Servidor Online na porta ${PORT}`)
-})
+    console.log(`🚀 Servidoor Online na porta ${PORT}`)
+});
