@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Catering",
+    "description": "Complete food service including savory snacks, sweets, and main dishes.",
+    "price": 2500,
+    "image": "https://images.unsplash.com/photo-1726992117805-6b3c5a8ebd3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Beverages",
+    "description": "Includes soft drinks, juices, water, and alcoholic/non-alcoholic cocktails.",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1614871644671-9e85a51fbc6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fEJldmVyYWdlcyUyMGFzdGhldGljfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Cake",
+    "description": "Custom decorated cake according to the party theme.",
+    "price": 300,
+    "image": "https://images.unsplash.com/photo-1667908775750-395e9b043396?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGNha2UlMjBhc3RoZXRpY3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Waitstaff",
+    "description": "Professionals to serve food and drinks to guests.",
+    "price": 600,
+    "image": "https://plus.unsplash.com/premium_photo-1664298968868-110e41192af7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fFdhaXRzdGFmZnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Decoration",
+    "description": "Themed decoration with balloons, flowers, main table, and backdrops.",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1685030860419-3a6109722a17?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fERlY29yYXRpb24lMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Decorative Lighting",
+    "description": "Ambient lighting to enhance party decoration.",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1685031068031-1c780c557190?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fERlY29yYXRpb24lMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "DJ",
+    "description": "DJ with sound equipment and custom playlist.",
+    "price": 1500,
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGolMjBwYXJ0eXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Live Band",
+    "description": "Musical group performing live during the event.",
+    "price": 3000,
+    "image": "https://images.unsplash.com/photo-1707991462878-a2caac1fb69d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fExpdmUlMjBCYW5kJTIwcGFydHl8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Venue",
+    "description": "Rental of party hall or outdoor venue with proper structure.",
+    "price": 2000,
+    "image": "https://images.unsplash.com/photo-1620704043184-bc985bebeb8e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFZlbnVlfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Tables and Chairs",
+    "description": "Rental of tables, chairs, and tablecloths for guests.",
+    "price": 400,
+    "image": "https://images.unsplash.com/photo-1735547928473-c099d7ef0628?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFRhYmxlcyUyMGFuZCUyMENoYWlycyUyMHBhcnR5fGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Security",
+    "description": "Professionals to ensure event safety and access control.",
+    "price": 700,
+    "image": "https://images.unsplash.com/photo-1618371731836-2b9bff9ac72a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fFNlY3VyaXR5fGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Photography",
+    "description": "Professional photographer to capture the best moments.",
+    "price": 1000,
+    "image": "https://plus.unsplash.com/premium_photo-1682097066897-209d0d9e9ae5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Videography",
+    "description": "High-quality video recording of the entire event.",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1547580116-1b0a345a23f1?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fFZpZGVvZ3JhcGh5fGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Photo Booth",
+    "description": "Interactive booth with instant photo printing.",
+    "price": 900,
+    "image": "https://images.unsplash.com/photo-1578376706507-35e6dd7af19c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGhvdG8lMjBCb290aHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+
+  {
+    "name": "Cleaning Service",
+    "description": "Staff for cleaning during and after the event.",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1580842402762-6f5868c17412?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fENsZWFuaW5nJTIwU2VydmljZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Portable Toilets",
+    "description": "Portable restrooms for outdoor parties.",
+    "price": 600,
+    "image": "https://images.unsplash.com/photo-1701637783855-da67ab363cfa?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UG9ydGFibGUlMjBUb2lsZXRzfGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Kids Entertainment",
+    "description": "Monitors and games to entertain children.",
+    "price": 800,
+    "image": "https://images.unsplash.com/photo-1706843540894-6e0d7b0bb6da?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fEtpZHMlMjBFbnRlcnRhaW5tZW50fGVufDB8fDB8fHww"
+  },
+  {
+    "name": "Character Actors",
+    "description": "Performers dressed as themed characters.",
+    "price": 700,
+    "image": "https://images.unsplash.com/photo-1740366115822-324347aa9d20?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENoYXJhY3RlciUyMEFjdG9yc3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Inflatable Toys",
+    "description": "Bounce houses, slides, and other inflatable toys for children.",
+    "price": 1000,
+    "image": "https://images.unsplash.com/photo-1663398073601-55b654139868?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fEluZmxhdGFibGUlMjBUb3lzJTIwcGFydHl8ZW58MHx8MHx8fDA%3D"
+  }
+]
