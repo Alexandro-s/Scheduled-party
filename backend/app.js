@@ -30,6 +30,5 @@ app.listen(PORT, () => {
     console.log(`🚀 Servidor Online na porta ${PORT}`)
 })
 
-//dQxzn7g2TeiKXmIq  - ip 186.249.214.19/32
 
-// mongodb+srv://alexandrosantosilva66:<db_password>@cluster0.syxiy8x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
